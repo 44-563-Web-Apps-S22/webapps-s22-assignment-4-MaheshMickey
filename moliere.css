@@ -1,0 +1,38 @@
+.direction{
+    background-color: antiquewhite; 
+    width: fit-content;   
+}
+.direction:hover{
+    background-color:aqua;
+}
+.pernelle{
+    font-size: larger;
+    color:darkmagenta;
+    font-style: italic;
+}
+.elmire{
+    font-size: larger;
+    color:coral;
+    font-style: italic;
+}
+.dorine{
+    font-size: larger;
+    color: deeppink;
+    font-style: italic;
+}
+.damis{
+    font-size: large;
+    color:gold;
+    font-style: italic;
+}
+.mariane{
+     font-size: larger;
+     color:darkmagenta;
+     font-style: italic;
+}
+.cleante{
+    font-size: larger;
+    color:lawngreen;
+    font-style: italic;
+}
+
