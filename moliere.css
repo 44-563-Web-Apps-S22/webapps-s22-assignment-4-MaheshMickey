@@ -1,0 +1,38 @@
+.direction{
+    background-color: antiquewhite; 
+    width: fit-content;   
+}
+.direction:hover{
+    background-color:aqua;
+}
+.Pernelle{
+    font-size: larger;
+    color:black;
+    font-style: italic;
+}
+.Elmire{
+    font-size: larger;
+    color:black;
+    font-style: italic;
+}
+.Dorine{
+    font-size: larger;
+    color: black;
+    font-style: italic;
+}
+.Damis{
+    font-size: large;
+    color:black;
+    font-style: italic;
+}
+.Mariane{
+     font-size: larger;
+     color:black;
+     font-style: italic;
+}
+.Cleante{
+    font-size: larger;
+    color: black;
+    font-style: italic;
+}
+
