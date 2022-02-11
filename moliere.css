@@ -1,9 +1,12 @@
+.speech{
+    font-style: oblique;
+}
 .direction{
-    background-color: antiquewhite; 
+    background-color: aliceblue; 
     width: fit-content;   
 }
 .direction:hover{
-    background-color:aqua;
+    background-color:antiquewhite;
 }
 .pernelle{
     font-size: larger;
