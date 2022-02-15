@@ -1,41 +1,182 @@
-.speech{
+.title{
     font-style: oblique;
 }
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+}
 .direction{
-    background-color: aliceblue; 
+    color: antiquewhite;
     width: fit-content;   
 }
 .direction:hover{
-    background-color:antiquewhite;
+    color: #880E4F;
+    background-color: aliceblue;
 }
 .pernelle{
     font-size: larger;
     color:darkmagenta;
     font-style: italic;
 }
+.pernelle:hover{
+    color: tomato;
+    box-shadow: inset;
+    background-color: beige;    
+    border: 2px dashed;
+    border-collapse: collapse;
+    width: fit-content;
+    border-color: black;
+    text-shadow: 0 0 2px #880E4F;
+}
 .elmire{
     font-size: larger;
     color:coral;
     font-style: italic;
+}
+.elmire:hover{
+    color: #f57644;
+    box-shadow: inset;
+    background-color: blanchedalmond;
+    border: 1.5px dashed;
+    border-collapse: collapse;
+    width: fit-content;
+    border-color: black;
+    text-shadow: 0 0 2px sienna;
 }
 .dorine{
     font-size: larger;
     color: deeppink;
     font-style: italic;
 }
+.dorine:hover{
+    color: #44f55b;
+    box-shadow: inset;
+    background-color: blanchedalmond;
+    border: 1.5px dashed;
+    border-collapse: collapse;
+    width: fit-content;
+    border-color: black;
+    text-shadow: 0 0 2px #44f55b;
+}
 .damis{
     font-size: large;
     color:gold;
     font-style: italic;
+}
+.damis:hover{
+    color: #880E4F;
+    box-shadow: inset;
+    background-color: blanchedalmond;
+    border: 1.5px dashed;
+    border-collapse: collapse;
+    width: fit-content;
+    border-color: black;
+    text-shadow: 0 0 2px #880E4F;
+
 }
 .mariane{
      font-size: larger;
      color:darkmagenta;
      font-style: italic;
 }
+.mariane:hover{
+    color: tomato;
+    box-shadow: inset;
+    background-color: blanchedalmond;
+    border: 1.5px dashed;
+    border-collapse: collapse;
+    width: fit-content;
+    border-color: black;
+    text-shadow: 0 0 2px #880E4F;
+
+}
 .cleante{
     font-size: larger;
     color:lawngreen;
     font-style: italic;
 }
+.cleante:hover{
+    color: darksalmon ;
+    box-shadow: inset;
+    background-color: blanchedalmond;
+    border: 1.5px dashed;
+    border-collapse: collapse;
+    width: fit-content;
+    border-color: black;
+    text-shadow: 0 0 2px darksalmon;
+}
+table{
+    border: 6px ridge;
+    border-collapse: collapse;
+    text-align: left;
+    box-shadow: 5px 10px #888888;
 
+}
+th{
+    border: 3px ridge;
+    border-collapse:collapse ;
+    text-align: left;
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    padding: 10px;
+    border-color: white;
+}
+ td{
+    border: 3px ridge;
+    border-color: black;
+    border-collapse: collapse;
+    text-align: left;
+    width: 20%;
+    text-align: center;
+    padding: 10px;
+}
+tr.pr{
+    color: #D50000;
+    background-color:seashell ;
+    border: 3px ridge;
+    border-collapse: collapse;
+    text-align: left;
+    border-color: black;
+    width: 20%;
+    padding: 5px;
+    text-align: center;
+    margin-left: auto;
+} 
+tr.nt{
+    color: #880E4F;
+    background-color: azure;
+    border: 3px ridge;
+    border-color: black;
+    border-collapse: collapse;
+    text-align: left;
+    width: 20%;
+    text-align: center;
+    padding: 5px;
+    margin-left: auto;
+}
+tr.rc5{
+    color: #D50000;
+    background-color: seashell;
+    border: 3px ridge;
+    border-color: black;
+    border-collapse: collapse;
+    text-align: left;
+    width: 20%;
+    text-align: center;
+    padding: 5px;
+    margin-left: auto;
+}
+tr.ab{
+    color: #880E4F;
+    background-color: azure;
+    border: 3px ridge;
+    border-color: black;
+    border-collapse: collapse;
+    text-align: left;
+    width: 20%;
+    text-align: center;
+    padding: 5px;
+    margin-left: auto;
+
+}
