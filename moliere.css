@@ -12,6 +12,15 @@
     color: #880E4F;
     background-color: aliceblue;
 }
+.stagedirection{
+    font-size: large;
+    color:lawngreen;
+    font-style: italic;
+}
+a:link{
+    color: blue;
+
+}
 .pernelle{
     font-size: larger;
     color:darkmagenta;
@@ -75,7 +84,7 @@
 }
 .mariane{
      font-size: larger;
-     color:darkmagenta;
+     color:rgb(0, 139, 81);
      font-style: italic;
 }
 .mariane:hover{
@@ -178,5 +187,26 @@ tr.ab{
     text-align: center;
     padding: 5px;
     margin-left: auto;
-
 }
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left; 
+    color:#000;
+    text-underline-position: below;
+}
+ul.navbar-horizontal a {
+    display:inline-flex;
+    padding:8px;
+    margin-bottom: 8px;
+    background-color:#81D4FA;
+}
+ul.navbar-horizontal a:hover {  
+    background-color: #555;
+    color:white;
+    text-decoration: underline;
+}
+
