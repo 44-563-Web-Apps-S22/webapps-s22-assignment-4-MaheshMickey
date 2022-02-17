@@ -197,6 +197,7 @@ ul.navbar-horizontal li {
     float:left; 
     color:#000;
     text-underline-position: below;
+    display: inline;
 }
 ul.navbar-horizontal a {
     display:inline-flex;
